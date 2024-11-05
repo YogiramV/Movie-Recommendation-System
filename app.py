@@ -37,7 +37,7 @@ def recommend(movie, movies, similarity):
 
 
 # Streamlit UI setup
-st.header('Movie Recommender System')
+st.header('Movie Recommendation System')
 
 # Define the categories for recommendation
 recommend_category = ['Genre', 'Director', 'Actor']

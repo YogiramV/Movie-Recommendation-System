@@ -1,6 +1,0 @@
-models/Based-Actor/movie_list.pkl filter=lfs diff=lfs merge=lfs -text
-models/Based-Actor/similarity.pkl filter=lfs diff=lfs merge=lfs -text
-models/Based-Director/movie_list.pkl filter=lfs diff=lfs merge=lfs -text
-models/Based-Director/similarity.pkl filter=lfs diff=lfs merge=lfs -text
-models/Based-Genre/movie_list.pkl filter=lfs diff=lfs merge=lfs -text
-models/Based-Genre/similarity.pkl filter=lfs diff=lfs merge=lfs -text
